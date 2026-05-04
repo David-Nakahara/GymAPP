@@ -10,3 +10,4 @@ certifi
 gunicorn
 email-validator
 passlib
+slowapi
