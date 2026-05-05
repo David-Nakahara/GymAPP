@@ -1,4 +1,4 @@
-# 💪 GymApp — Plataforma de Gestão para Academias
+# 💪 GymApp — Aplicativo de Treino e Gestão Fitness
 
 ![GymApp](https://img.shields.io/badge/GymApp-v1.0-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
@@ -35,9 +35,9 @@ Caso o sistema esteja inativo por um período, o backend pode levar **até 50 se
 
 | Perfil | Email | Senha |
 |--------|-------|-------|
-| 👑 Admin | `admin@gymapp.com` | `admin123` |
-| 🏋️ Aluno 1 | `aluno.428720@gymmanager.com` | `bomdia248` |
-| 🏋️ Aluno 2 | `aluno.00ce03@gymmanager.com` | `bomdia248` |
+| 👑 Admin   | EMAIL: `admin@gymapp.com` | SENHA: `admin123` |
+| 🏋️ Aluno 1 | EMAIL: `aluno.428720@gymmanager.com` | SENHA: `bomdia248` |
+| 🏋️ Aluno 2 | EMAIL: `aluno.00ce03@gymmanager.com` | SENHA: `bomdia248` |
 
 > ⚠️ Ambiente de demonstração — os dados podem ser alterados ou resetados a qualquer momento.
 
@@ -54,10 +54,11 @@ Caso o sistema esteja inativo por um período, o backend pode levar **até 50 se
 - Relatório financeiro com gráficos de distribuição por plano e status
 
 ### 🏋️ Área do Aluno
-- Visualização do treino atribuído pelo admin
-- Cronômetro para controle de tempo entre séries
-- Marcação de treinos realizados
-- Histórico de atividades
+- 📋 **Acesso ao treino personalizado** atribuído pelo administrador  
+- ⏱️ **Cronômetro integrado** para controle de descanso entre séries
+- ✅ **Registro de treinos concluídos** com marcação em tempo real  
+- 📊 **Histórico de atividades** para acompanhamento de evolução  
+- 🏆 **Sistema de ranking gamificado** com XP e patentes, baseado na consistência semanal (inspirado em sistemas como Duolingo — ranking global e pessoal)
 
 ---
 
@@ -222,5 +223,7 @@ A estrutura permite personalização completa de identidade visual, serviços e 
 
 Full Stack Developer focado em criação de soluções reais, com visão de produto e aplicação comercial.
 
-📧 Email: [devdavidnakahara@gmail.com](mailto:devdavidnakahara@gmail.com)  
-📸 Instagram: [@woo_d4vid](https://instagram.com/woo_d4vid)
+## 📬 Contato
+
+- 📧 **Email:** [devdavidnakahara@gmail.com](mailto:devdavidnakahara@gmail.com)  
+- 💼 **LinkedIn:** [David Nakahara](https://www.linkedin.com/in/david-nakahara-8a5132320/)
